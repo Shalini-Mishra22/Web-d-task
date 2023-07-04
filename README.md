@@ -1,5 +1,5 @@
 # Web-d-task
 Bharat Intern
-Task 2  - temperature converter  using html,css and javascript
-Task 3  - netflix clone using html and css
+Task 2  - Temperature Converter  using html,css and javascript
+Task 3  - Homepage of Netflix  using html and css
 
